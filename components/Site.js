@@ -56,6 +56,7 @@ export default function Site({ content }) {
           <div className="navlinks">
             <a href="#services">Services</a>
             <a href="#process">Process</a>
+            <a href="/photos">Photos</a>
             <a href="#trust">Credentials</a>
             <a href="#contact">Contact</a>
           </div>
